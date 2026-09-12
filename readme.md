@@ -1,6 +1,6 @@
 # Robotics & Coding Club Plan
 
-This repository contains our current plan for the Robotics & Coding Club.
+This club help students learn about robotics, coding, and design. We will work together and learn how to code and build robot
 
 ## Plan
 
@@ -10,3 +10,9 @@ This repository contains our current plan for the Robotics & Coding Club.
 - [Adult Support](as.md)
 - [Funding](funding.md)
 - [Resources](resources.md)
+
+## Current Status
+
+- Club Sponser confirmed
+- 5 student members
+- Club application submitted
