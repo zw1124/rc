@@ -1,6 +1,6 @@
 # Possible Club Directions
 
-## Option 1 (What I recommand)
+## Option 1 (What I recommend)
 
 We can join a robotics competition such as FTC / FRC or V5RC / VEX AI.
 
