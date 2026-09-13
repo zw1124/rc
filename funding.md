@@ -18,5 +18,13 @@ We need funding for competition fees, robot parts, and other materials.
 | Evergreen student club grant | < $75 | NONE | NONE | NONE | NONE |
 | Loudoun robotics team grant | $150 - $300 | NONE | NONE | FTC, FRC, VEX | https://www.loudounrobotics.org/team-grants.html |
 | NASA 2027 FRC rookie grant | $6500 district registration fee | 9/30 | US rookie team, need FIRST team member, schools letter of support | FRC | https://robotics.nasa.gov/2025-2026-frc-sponsorship-grants/ |
-| 
+
+
+# NOTE
+
+IF WE ARE DOING FRC I can ask someone in AWS and CITADEL and ask if they have available grant program for us.
+
+the FRC is more possible right now, cause NASA grant covers nearly everything for first and second district competition.
+
+although NASA grant give more money to rookie than other levels team, but we have 20 - 10 percent can't get the grant. 
 
