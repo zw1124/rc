@@ -6,6 +6,7 @@ We need funding for competition fees, robot parts, and other materials.
 | Project | target | detail |
 | --- | --- | --- |
 | Independent project | cost depends on the project | NONE |
+| VEX VR | FREE | NOT RECOMMENDED |
 | VEX V5 | $1609.99 - $2624.99 | registration fee + kit |
 | FTC | $2350 | team registration + chesapeake registration + kit|
 | VEX AI | $4315.19 | kit + team registration |
