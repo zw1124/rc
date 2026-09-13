@@ -6,7 +6,7 @@ We can join a robotics competition such as FTC / FRC or V5RC / VEX AI.
 
 We would design, build, code our robot for the competition.
 
-# Option 2
+## Option 2
 
 We can work make our own robotics projects.
 
